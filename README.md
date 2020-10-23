@@ -1,8 +1,8 @@
 # hello-world
 
-Hi! I am Fer de Nanz. I am a newb programmer.
+Hi! I am L. I am a newb programmer.
 
-I am just starting to learn programming.
+I know a little bit of Javascript, but I am now studying and practicing Python.
 
 I am learning programming because I thought that I could do a lot of things with my knowledge in programming.
 
